@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "prob01"
+name = "part2"
 version = "0.1.0"
 
 [[package]]

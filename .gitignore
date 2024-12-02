@@ -1,6 +1,1 @@
-/target
-
-year2023/target
-year2024/target
-year2024/prob01/target/
-year2023/prob02/target/
+**/*/target
